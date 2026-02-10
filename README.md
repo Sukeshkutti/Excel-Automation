@@ -65,5 +65,5 @@ This project demonstrates:
 
 ## 📬 Author
 
-Created by [Sukesh S]  
+Created by **Sukesh S**  
 Data Analytics | Automation | Excel | VBA  
