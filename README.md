@@ -49,7 +49,10 @@ Instead of manually copying and pasting data from multiple files, this tool auto
 
 ## 📸 Demo
 
+**Before**
 <img width="1096" height="221" alt="List_of_files" src="https://github.com/user-attachments/assets/f369f809-11ea-415b-b757-424d54a4d3c7" />
+
+**After**
 <img width="890" height="237" alt="After_running_file" src="https://github.com/user-attachments/assets/55743864-57a0-4809-8e11-e117271466e5" />
 
 
